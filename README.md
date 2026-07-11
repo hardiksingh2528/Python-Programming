@@ -9,11 +9,6 @@ This repository documents my Python learning journey, where I practice concepts 
 ## 📚 Topics Covered
 
 - Fundamentals
-- Variables & Data Types
-- Operators
-- Input & Output
-- Conditional Statements
-- Loops
 - Functions
 - Strings
 - Lists
